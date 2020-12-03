@@ -1,4 +1,4 @@
-# reads the data of several Xiaomi Mijia LYWSD03MMC Bluetiith 4.2 Temperature Humidity sensors
+# reads the data of several Xiaomi Mijia LYWSD03MMC Bluetooth 4.2 Temperature Humidity sensors
 
 With this script you can read out the values of several LYWSD03MMC sensor, e.g. with a Raspberry PI. 
 The connection details of your LYWSD03MMC sensors is defined  in a config file. The script connects one after another sensor, reads out the data and publish it to a MQTT server. 
